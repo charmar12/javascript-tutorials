@@ -22,7 +22,7 @@ const readmeTemplate = `# ${folderName}
 
 This is a learning exercise from the [javascript.info](https://javascript.info) tutorial series.
 
-## 🔍 Purpose
+## Purpose
 
 Briefly describe the concept covered here.
 
