@@ -10,5 +10,5 @@ This folder contains my practice code for the "08-Basic-operators-maths" section
 ## Notes
 
 Key takeaways:
--Prompt returns user input as a string.
--Adding a + before a string converts it to a number, if possible
+- Prompt returns user input as a string.
+- Adding a + before a string converts it to a number, if possible
