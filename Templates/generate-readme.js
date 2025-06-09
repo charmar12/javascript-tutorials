@@ -27,8 +27,7 @@ This folder contains my practice code for the "${targetFolder}" section of [java
 
 ## Files
 
-- \`main.js\` or similar: main script for this lesson
-- \`index.html\` or similar: file for running the script in the browser
+- \`main.js\`
 
 ## Notes
 

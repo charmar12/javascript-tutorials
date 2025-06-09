@@ -4,9 +4,12 @@ This folder contains my practice code for the "13-loops-while-and-for" section o
 
 ## Files
 
-- `main.js` or similar: main script for this lesson
-- `index.html` or similar: file for running the script in the browser
+- `output-even-numbers-in-the-loop.js`
+- `output-prime-numbers.js`
+- `repeat-until-the-input-is-correct.js`
+- `replace-for-with-while.js`
 
 ## Notes
 
-(Add a short summary of what you learned or experimented with here.)
+Key takeaways:
+- To this point loops work very similarly to those in Python, with different syntax.
