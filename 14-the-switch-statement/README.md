@@ -4,9 +4,10 @@ This folder contains my practice code for the "14-the-switch-statement" section 
 
 ## Files
 
-- `main.js` or similar: main script for this lesson
-- `index.html` or similar: file for running the script in the browser
+- `rewrite-if-into-switch.js`
+- `rewrite-the-switch-into-an-if`
 
 ## Notes
 
-(Add a short summary of what you learned or experimented with here.)
+The switch statement is new to me. It lets you consolidate multiple if 
+statements resulting in cleaner code.
